@@ -5,3 +5,7 @@
 .navbar-expand-lg .navbar-nav .nav-link {
   padding-left: 1.5rem;
 }
+
+.carousel-item {
+  height: calc(100vh - 56px);
+}
