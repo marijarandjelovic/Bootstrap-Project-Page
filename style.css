@@ -9,3 +9,13 @@
 .carousel-item {
   height: calc(100vh - 56px);
 }
+
+.card-img,
+.card-img-top {
+  cursor: pointer;
+}
+
+.btn-primary {
+  display: block;
+  margin: auto;
+}
